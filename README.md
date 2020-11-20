@@ -8,3 +8,5 @@ To try it out for yourself click on the Binder Badge below
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/codema-dev/heat-loss-parameter/HEAD?filepath=notebooks%2Fcalculate_heat_loss_parameter_for_berpublicsearch.ipynb)
 
 ... and once the Notebook has been built select `Cell > Run All` from the dropdown menu
+
+![Run All](images/run_all_cells.png)
